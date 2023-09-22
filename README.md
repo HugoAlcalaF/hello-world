@@ -1,2 +1,2 @@
 # hello-world
-primer repositorio editado
+nuestro primer repositorio editado
