@@ -1,0 +1,10 @@
+#Funciones
+def mediaTresNumeros (num1,num2,num3):
+    resultado=(num1+num2+num3)/3
+    return resultado
+
+
+#Codigo principal-MAIN
+print ("Probando función")
+media=mediaTresNumeros(2,3,4)
+print (media)
